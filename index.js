@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // npm packages
 const chalk = require('chalk');
 const clear = require('clear');
